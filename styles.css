@@ -1,0 +1,54 @@
+/* Make background dark and set padding */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Center the main content */
+.block-container {
+    max-width: 1000px;  /* Adjust width */
+    margin: auto;
+    padding: 20px;
+}
+
+/* style.css */
+.sidebar-left {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar-left h3 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.expander-content {
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+/* style.css */
+.sidebar-right {
+    padding: 10px;
+    background-color: #f2f1f6;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar-right h3 {
+    color:  #090223;
+    margin-bottom: 15px;
+}
+
+.expander-content {
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
